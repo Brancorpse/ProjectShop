@@ -1,3 +1,3 @@
 # Shop
 
-This is ny firt web app project using Python with Django
+This is my firt web app project using Python with Django
